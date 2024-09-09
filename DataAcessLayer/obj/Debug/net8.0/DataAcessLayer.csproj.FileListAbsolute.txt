@@ -1,0 +1,12 @@
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+D:\Zeyad\dotNET(Route)\MVC\MVC\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll

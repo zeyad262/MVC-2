@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\demo.presentationlyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B411134F-6054-4440-8585-DE36DFB9A061}|Demo.PresentationLyer\\Demo.PresentationLyer.csproj|solutionrelative:demo.presentationlyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8D3AF-D6A0-422F-9874-3401CBCC3F0E}|DataAcessLayer\\DataAcessLayer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\dataacesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE8D3AF-D6A0-422F-9874-3401CBCC3F0E}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC940EE1-4347-4603-BB38-F8B18F07EC84}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\businesslogiclayer\\repositories\\departmentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC940EE1-4347-4603-BB38-F8B18F07EC84}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\repositories\\departmentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8D3AF-D6A0-422F-9874-3401CBCC3F0E}|DataAcessLayer\\DataAcessLayer.csproj|d:\\zeyad\\dotnet(route)\\mvc\\mvc\\dataacesslayer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE8D3AF-D6A0-422F-9874-3401CBCC3F0E}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:06:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:47:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:37:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:27:27.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:02:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Demo.PresentationLyer\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:58:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Demo.PresentationLyer\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:52:30.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PresentationLyer\\Program.cs",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\Demo.PresentationLyer\\Program.cs",
+              "RelativeToolTip": "Demo.PresentationLyer\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:19:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentRepositories.cs",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\BusinessLogicLayer\\Repositories\\DepartmentRepositories.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Repositories\\DepartmentRepositories.cs",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\BusinessLogicLayer\\Repositories\\DepartmentRepositories.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Repositories\\DepartmentRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:41:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\DataAcessLayer\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\DataAcessLayer\\Data\\DataContext.cs",
+              "RelativeToolTip": "DataAcessLayer\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:36:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\DataAcessLayer\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Models\\Department.cs",
+              "ToolTip": "D:\\Zeyad\\dotNET(Route)\\MVC\\MVC\\DataAcessLayer\\Models\\Department.cs",
+              "RelativeToolTip": "DataAcessLayer\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:30:28.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
